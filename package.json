@@ -10,7 +10,7 @@
   "icon": "assets/icon2.png",
   "publisher": "AlisCodeCreations",
   "engines": {
-    "vscode": "^1.30.0"
+    "vscode": "^1.93.0"
   },
   "categories": [
     "Programming Languages",
