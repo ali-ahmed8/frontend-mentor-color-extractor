@@ -3,6 +3,11 @@
   "displayName": "Frontend Mentor Color Variables Helper",
   "description": "Easily extract and convert colors from Frontend Mentor style guides into CSS variables. Select HSL/HSLA colors from the style-guide.md file and copy them directly to your clipboard as ready-to-use CSS variables.",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ali-ahmed8/frontend-mentor-color-extractor"
+  },
+  "icon": "assets/icon2.png",
   "publisher": "",
   "engines": {
     "vscode": "^1.30.0"
