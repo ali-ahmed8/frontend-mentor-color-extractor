@@ -31,7 +31,7 @@ Then run the extension to extract and copy all the colors in the page in one go!
 
 ### From the VS Code Marketplace
 
-1. Search for **Frontend Mentor Color Variables Helper** in the [VS Code Marketplace](https://marketplace.visualstudio.com/).
+1. Search for **FM Color Helper** in the [VS Code Marketplace](https://marketplace.visualstudio.com/).
 2. Click **Install**.
 
 ### From GitHub
