@@ -1,6 +1,6 @@
 {
   "name": "frontend-mentor-color-variables-helper",
-  "displayName": "Frontend Mentor Color Variables Helper",
+  "displayName": "FM Color Helper",
   "description": "Easily extract and convert colors from Frontend Mentor style guides into CSS variables. Select HSL/HSLA colors from the style-guide.md file and copy them directly to your clipboard as ready-to-use CSS variables.",
   "version": "1.0.0",
   "repository": {
